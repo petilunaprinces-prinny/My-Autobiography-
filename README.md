@@ -89,7 +89,6 @@
     <header>
       <h1>My Autobiography</h1>
       <p>"Every life has a story — this is mine."</p>
-      <img src=""C:\Users\Dell\Downloads\fe974c44-0676-47e1-b27c-958358abd44c.jpg"" alt="Profile Picture" class="profile-img">
     </header>
 
     <section>
